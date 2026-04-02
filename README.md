@@ -1,5 +1,5 @@
-# Deep Learning – Çok Sınıflı (Multiclass) Sınıflandırma
+# Deep Learning – Multiclass Classification
 
-Üçüncü egzersiz, **çok sınıflı bir sınıflandırma** yapmak için daha karmaşık bir veri seti kullanır.  
-Bu ikinci görev, sinir ağlarını anlama konusunda bir adım daha ileri gider.  
-Modelin yakınsaması (convergence) sırasında **overfitting** (aşırı uyum) gözlemleyeceksiniz.
+The third exercise uses a more complex dataset to perform **multiclass classification**.
+This second task takes understanding neural networks a step further.
+You will observe **overfitting** during model convergence.
